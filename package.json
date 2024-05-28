@@ -1,0 +1,55 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/icons-material": "^5.15.18",
+    "@mui/material": "^5.15.18",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^11.2.6",
+    "html2canvas": "^1.4.1",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.3",
+    "qrcode.react": "^3.1.0",
+    "react-color": "^2.19.3",
+    "react-draggable": "^4.4.6",
+    "react-scripts": "^5.0.1",
+    "sharp": "^0.33.3",
+    "web-vitals": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  },
+  "name": "qrcode-gen",
+  "version": "1.0.0",
+  "description": "A QrCode generator made into a website!",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/XanaOG/QrCode-Generator"
+  },
+  "keywords": [
+    "QrCode"
+  ],
+  "author": "XanaOG",
+  "license": "ISC"
+}
