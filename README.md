@@ -16,13 +16,10 @@ Follow these steps to set up and run the QR code generator on your local machine
 # 1. Clone the Repository
 git clone https://github.com/XanaOG/QrCode-Generator.git
 
-# 2. Navigate to the Project Directory
-cd your-repository
-
-# 3. Install Dependencies
+# 2. Install Dependencies
 npm install
 
-# 4. Start the Development Server
+# 3. Start the Development Server
 npm start
 
 This command will start the React development server and open the application in your default web browser. If it does not open automatically, navigate to [http://localhost:3000](http://localhost:3000) in your browser.
