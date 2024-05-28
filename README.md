@@ -13,7 +13,6 @@ Follow these steps to set up and run the QR code generator on your local machine
 
 ### Step-by-Step Installation
 
-\```bash
 # 1. Clone the Repository
 git clone https://github.com/your-username/your-repository.git
 
@@ -25,7 +24,6 @@ npm install
 
 # 4. Start the Development Server
 npm start
-\```
 
 This command will start the React development server and open the application in your default web browser. If it does not open automatically, navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
@@ -33,9 +31,7 @@ This command will start the React development server and open the application in
 
 To create an optimized production build, run the following command:
 
-\```bash
 npm run build
-\```
 
 This command will create a `build` directory with a production build of your app. You can serve this build using any static server or deploy it to a hosting provider.
 
