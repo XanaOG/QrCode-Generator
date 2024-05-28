@@ -14,7 +14,7 @@ Follow these steps to set up and run the QR code generator on your local machine
 ### Step-by-Step Installation
 
 # 1. Clone the Repository
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/XanaOG/QrCode-Generator.git
 
 # 2. Navigate to the Project Directory
 cd your-repository
